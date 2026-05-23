@@ -1,8 +1,10 @@
 # IPL-Analysis-Excel-Dashboard
 #Project Overview
+
 This project is an interactive IPL Dashboard created in Microsoft Excel to analyze IPL season data and generate meaningful insights.
 
 #Features
+
 Season-wise IPL winners
 Runner-up analysis
 Player of the Match statistics
